@@ -72,6 +72,6 @@ def open_html():
 login('taha')
 open_html()
 logout()
-
+open_html()
 
 
